@@ -213,24 +213,6 @@ table th:nth-of-type(3) {
 ]]></content>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2021/12/26/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>北極之旅Part2 || 芬蘭聖誕老人村</title>
     <url>/2020/08/10/finland_santa_village/</url>
     <content><![CDATA[<p>想分享一下去芬蘭聖誕老人村的旅程</p>
@@ -357,46 +339,6 @@ table th:nth-of-type(3) {
       </tags>
   </entry>
   <entry>
-    <title>在瑞典一定要申辦的學生證_有很多優惠!!!!(申請教學)</title>
-    <url>/2020/07/10/sweden_mecenat/</url>
-    <content><![CDATA[<p>哈囉，<br>我是2019/2020的瑞典交換生</p>
-<p>當時在新生周，學校有推薦我們申請瑞典的學生證<br>這裡的學生證並非是學校的，而是另外去申請的</p>
-<p>這張學生證是 <strong>Mecenat</strong><br>官網 : <a href="https://mecenat.com/se/welcome">https://mecenat.com/se/welcome</a></p>
-<hr>
-<h3 id="先簡介一下這個學生證"><a href="#先簡介一下這個學生證" class="headerlink" title="先簡介一下這個學生證"></a><font color=#800000>先簡介一下這個學生證</font></h3><p>申請後會有很多學生折扣，去MAX或是任何的店家都可以詢問是否有學生優惠，出示手機裡的學生證圖片，即可獲得優惠或是額外的小禮。</p>
-<span id="more"></span>
-
-<p>像是MAX漢堡店，出示這張學生證可以多一選一個薯條沾醬。</p>
-<p>其中各項優惠，我們最常用到的就是flixbus的八折卷，可以不限次數使用，是背包客非常需要的折價卷。</p>
-<p>在黑色星期五，更是許多店家會大折扣，比方說 Marshall耳機跟音響直接半價！</p>
-<hr>
-<h3 id="學生證申請辦法"><a href="#學生證申請辦法" class="headerlink" title="學生證申請辦法"></a><font color=#800000>學生證申請辦法</font></h3><ul>
-<li>寄email給 <a href="mailto:&#x6b;&#x75;&#x6e;&#100;&#116;&#x6a;&#97;&#x6e;&#115;&#x74;&#64;&#109;&#101;&#99;&#101;&#x6e;&#x61;&#x74;&#x2e;&#x73;&#101;">&#x6b;&#x75;&#x6e;&#100;&#116;&#x6a;&#97;&#x6e;&#115;&#x74;&#64;&#109;&#101;&#99;&#101;&#x6e;&#x61;&#x74;&#x2e;&#x73;&#101;</a></li>
-<li>內容請附上以下資訊<ul>
-<li>First Name : </li>
-<li>Last Name : </li>
-<li>Personal Number :(人口號交換生應該是，生日+Txxx 那一串數字)</li>
-<li>Street Address : </li>
-<li>Postal Code : </li>
-<li>City : </li>
-<li>Education Level : </li>
-<li>University :</li>
-</ul>
-</li>
-<li>別忘了附上當學期的修課證明</li>
-<li><strong><font color=#FF6600>學生證半年就要重新申請一次喔！</font></strong></li>
-</ul>
-<h4 id="申請流程都是線上作業，非常方便與快速，對方收到信件之後，會告訴你接下來的流程，很簡單的"><a href="#申請流程都是線上作業，非常方便與快速，對方收到信件之後，會告訴你接下來的流程，很簡單的" class="headerlink" title="申請流程都是線上作業，非常方便與快速，對方收到信件之後，會告訴你接下來的流程，很簡單的~~"></a>申請流程都是線上作業，非常方便與快速，對方收到信件之後，會告訴你接下來的流程，很簡單的~~</h4><p><img src="https://i.imgur.com/m88jRAx.jpg" alt="學生證到時候會直接連結並放在手機的Mecenat APP裡面，直接出示給店家看就可以囉!" title="學生證到時候會直接連結並放在手機的Mecenat APP裡面，直接出示給店家看就可以囉!"></p>
-]]></content>
-      <categories>
-        <category>Days in Sweden</category>
-      </categories>
-      <tags>
-        <tag>瑞典</tag>
-        <tag>Mecenat</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>來自瑞典的報平安</title>
     <url>/2020/04/08/%E4%BE%86%E8%87%AA%E7%91%9E%E5%85%B8%E7%9A%84%E5%A0%B1%E5%B9%B3%E5%AE%89/</url>
     <content><![CDATA[<p>這是之前寫在臉書的文章，這段時間，在台灣的家人很緊張，小阿姨也用微信傳訊息問我是否安好，因此誕生了這篇報平安。</p>
@@ -431,6 +373,46 @@ table th:nth-of-type(3) {
       <tags>
         <tag>瑞典</tag>
         <tag>湖邊</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>在瑞典一定要申辦的學生證_有很多優惠!!!!(申請教學)</title>
+    <url>/2020/07/10/sweden_mecenat/</url>
+    <content><![CDATA[<p>哈囉，<br>我是2019/2020的瑞典交換生</p>
+<p>當時在新生周，學校有推薦我們申請瑞典的學生證<br>這裡的學生證並非是學校的，而是另外去申請的</p>
+<p>這張學生證是 <strong>Mecenat</strong><br>官網 : <a href="https://mecenat.com/se/welcome">https://mecenat.com/se/welcome</a></p>
+<hr>
+<h3 id="先簡介一下這個學生證"><a href="#先簡介一下這個學生證" class="headerlink" title="先簡介一下這個學生證"></a><font color=#800000>先簡介一下這個學生證</font></h3><p>申請後會有很多學生折扣，去MAX或是任何的店家都可以詢問是否有學生優惠，出示手機裡的學生證圖片，即可獲得優惠或是額外的小禮。</p>
+<span id="more"></span>
+
+<p>像是MAX漢堡店，出示這張學生證可以多一選一個薯條沾醬。</p>
+<p>其中各項優惠，我們最常用到的就是flixbus的八折卷，可以不限次數使用，是背包客非常需要的折價卷。</p>
+<p>在黑色星期五，更是許多店家會大折扣，比方說 Marshall耳機跟音響直接半價！</p>
+<hr>
+<h3 id="學生證申請辦法"><a href="#學生證申請辦法" class="headerlink" title="學生證申請辦法"></a><font color=#800000>學生證申請辦法</font></h3><ul>
+<li>寄email給 <a href="mailto:&#107;&#117;&#x6e;&#x64;&#x74;&#106;&#x61;&#110;&#x73;&#x74;&#x40;&#109;&#x65;&#99;&#x65;&#x6e;&#97;&#x74;&#x2e;&#115;&#101;">&#107;&#117;&#x6e;&#x64;&#x74;&#106;&#x61;&#110;&#x73;&#x74;&#x40;&#109;&#x65;&#99;&#x65;&#x6e;&#97;&#x74;&#x2e;&#115;&#101;</a></li>
+<li>內容請附上以下資訊<ul>
+<li>First Name : </li>
+<li>Last Name : </li>
+<li>Personal Number :(人口號交換生應該是，生日+Txxx 那一串數字)</li>
+<li>Street Address : </li>
+<li>Postal Code : </li>
+<li>City : </li>
+<li>Education Level : </li>
+<li>University :</li>
+</ul>
+</li>
+<li>別忘了附上當學期的修課證明</li>
+<li><strong><font color=#FF6600>學生證半年就要重新申請一次喔！</font></strong></li>
+</ul>
+<h4 id="申請流程都是線上作業，非常方便與快速，對方收到信件之後，會告訴你接下來的流程，很簡單的"><a href="#申請流程都是線上作業，非常方便與快速，對方收到信件之後，會告訴你接下來的流程，很簡單的" class="headerlink" title="申請流程都是線上作業，非常方便與快速，對方收到信件之後，會告訴你接下來的流程，很簡單的~~"></a>申請流程都是線上作業，非常方便與快速，對方收到信件之後，會告訴你接下來的流程，很簡單的~~</h4><p><img src="https://i.imgur.com/m88jRAx.jpg" alt="學生證到時候會直接連結並放在手機的Mecenat APP裡面，直接出示給店家看就可以囉!" title="學生證到時候會直接連結並放在手機的Mecenat APP裡面，直接出示給店家看就可以囉!"></p>
+]]></content>
+      <categories>
+        <category>Days in Sweden</category>
+      </categories>
+      <tags>
+        <tag>瑞典</tag>
+        <tag>Mecenat</tag>
       </tags>
   </entry>
 </search>
